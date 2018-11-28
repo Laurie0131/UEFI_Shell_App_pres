@@ -1,6 +1,8 @@
 ---?image=assets/images/gitpitch-audience.jpg
 @title[Platform Build Lab]
-<br><br><br><br><br>
+<br><br>
+<span style="font-size:0.75em" >This slide deck has moved to:  https://gitpitch.com/tianocore-training/UEFI_Shell_App_Pres/master#/</span>
+<br><br><br>
 ## <span class="gold"   >UEFI & EDK II Training</span>
 
 #### UEFI Shell Application
@@ -124,12 +126,20 @@ Note:
 
 Note:
 
-+++?image=/assets/images/slides/Slide9.JPG
++++?image=/assets/images/slides/Slide8.JPG
 <!-- .slide: data-background-transition="none" -->
 <!-- .slide: data-transition="none" -->
 @title[What is a UEFI Shell? 06]
 <p align="right"><span class="gold" >What is a UEFI Shell?</span></p>
 
+@snap[north-east span-30]
+@css[ text-yellow](<br><br>&nbsp;)
+![ItsAn](/assets/images/its_an.png)
+@snapend
+
+@snap[east span-30 fragment]
+@css[ text-yellow](<br><br>&nbsp;Extensive & Standardize Pre-OS UEFI Application)
+@snapend
 
 Note:
 
