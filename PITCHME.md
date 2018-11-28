@@ -184,11 +184,11 @@ Note:
 @snapend
 
 @snap[east span-45  fragment]
-@box[bg-yellow text-white waved ](<span style="font-size:01.5em" ><font face="Arial">Shell Commands</font> </span> )
+@box[bg-yellow text-blue waved ](<span style="font-size:01.5em" ><font face="Arial">Shell Commands</font> </span> )
 @snapend
 
 @snap[south-west span-45  fragment]
-@box[bg-purple text-white waved ](<span style="font-size:01.5em" ><font face="Arial">New Shell API</font> </span><br> )
+@box[bg-purple text-white waved ](<span style="font-size:01.5em" ><font face="Arial">New Shell API<br></font> </span><br> )
 @snapend
 
 @snap[south-east span-45  fragment]
