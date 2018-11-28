@@ -315,8 +315,8 @@ Beyond level 3, additional command “profiles” are defined for debug, network
 
 </table>
 
-@snap[south-west span-90 fragment ]
-@box[bg-purple text-white rounded ](<span style="font-size:01.05em" ><font face="Arial"><b>Choose the shell that best matches your product needs </b></font></span> )
+@snap[south-west  fragment ]
+@box[bg-purple text-white rounded ](<span style="font-size:01.0em" ><font face="Arial"><b>Choose the shell that best matches your product needs </b></font></span> )
 @snapend
 
 Note:
