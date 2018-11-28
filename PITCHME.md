@@ -302,15 +302,15 @@ Beyond level 3, additional command “profiles” are defined for debug, network
 	</tr>
 	<tr>
 		<td bgcolor="#4487f2"><p style="line-height:20%"><span style="font-size:0.85em">UEFI Debug Profile&nbsp;</span></p></td>
-		<td bgcolor="#D7D7D7"><p style="line-height:20%"><span style="font-size:0.5em"><font color="#00FFFF"> bcfg, comp, dblk, dmem, dmpstore, echo, edit, &nbsp; </font></span></p></td>
+		<td bgcolor="#D7D7D7"><p style="line-height:20%"><span style="font-size:0.55em"><font color="#4487f2"> bcfg, comp, dblk, dmem, dmpstore, echo, edit, &nbsp; </font></span></p></td>
 	</tr>
 	<tr>
 		<td bgcolor="#4487f2"><p style="line-height:20%"><span style="font-size:0.85em">UEFI Network Profile&nbsp;</span></p></td>
-		<td bgcolor="#D7D7D7"><p style="line-height:20%"><span style="font-size:0.5em"><font color="#00FFFF">ipconfig, ping &nbsp; </font></span></p></td>
+		<td bgcolor="#D7D7D7"><p style="line-height:20%"><span style="font-size:0.55em"><font color="#4487f2">ipconfig, ping &nbsp; </font></span></p></td>
 	</tr>
 	<tr>
 		<td bgcolor="#4487f2"><p style="line-height:20%"><span style="font-size:0.85em">UEFI Driver Profile&nbsp;</span></p></td>
-		<td bgcolor="#D7D7D7"><p style="line-height:20%"><span style="font-size:0.5em"><font color="#00FFFF"> drvdiag, openinfo, reconnect, load, unload&nbsp;</font></span> </p></td>
+		<td bgcolor="#D7D7D7"><p style="line-height:20%"><span style="font-size:0.55em"><font color="#4487f2"> drvdiag, openinfo, reconnect, load, unload&nbsp;</font></span> </p></td>
 	</tr>
 
 </table>
