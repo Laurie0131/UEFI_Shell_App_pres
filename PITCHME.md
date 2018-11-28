@@ -315,12 +315,9 @@ Beyond level 3, additional command “profiles” are defined for debug, network
 
 </table>
 
-Note:
-
----?image=/assets/images/slides/Slide21.JPG
-@title[Small Size Profiles detail]
-### <p align="right"><span class="gold" >Small Size Profiles</span></p>
-
+@snap[south-west span-90 fragment ]
+@box[bg-purple text-white rounded ](<span style="font-size:01.05em" ><font face="Arial"><b>Choose the shell that best matches your product needs </b></font></span> )
+@snapend
 
 Note:
 ## Small Size Profiles
@@ -343,6 +340,7 @@ Grouped the rest into 3 groups
 - UEFI Debug
 - Network
 - Driver
+- also install
 
 #### KEY POINT:  Choose the shell that best matches your product needs
 
