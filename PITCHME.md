@@ -134,7 +134,7 @@ Note:
 
 @snap[north-east span-30]
 @css[ text-yellow](<br><br>&nbsp;)
-![ItsAn](/assets/images/its_an.png)
+![ItsAn](/assets/images/Its_an.png)
 @snapend
 
 @snap[east span-30 fragment]
