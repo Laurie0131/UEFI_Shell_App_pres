@@ -345,8 +345,13 @@ Grouped the rest into 3 groups
 #### KEY POINT:  Choose the shell that best matches your product needs
 
 
----?image=/assets/images/slides/Slide23.JPG
+---
 @title[Shell Commands]
+
+
+@snap[midpoint span-65  ]
+@box[bg-yellow text-blue waved ](<span style="font-size:02.5em" ><font face="Arial">Shell Commands</font></span> )
+@snapend
 
 Note:
 
@@ -366,12 +371,51 @@ Only the commands built with the currenet shell being executed will also be list
 
 
 
----?image=/assets/images/slides/Slide27.JPG
+---
 @title[New Shell API]
+
+@snap[midpoint span-65  ]
+@box[bg-purple text-white waved ](<span style="font-size:02.5em" ><font face="Arial">New Shell API</font></span> )
+@snapend
 
 Note:
 
 ### New Shell API
+- Application interface
+
+---
+@title[New Shell API detail]
+### <p align="right"><span class="gold" >New Shell API</span></p>
+<p align="center"><span style="font-size:0.9em">`EFI_SHELL_PROTOCOL`</span></p>
+<table>
+	<tr>
+		<td bgcolor="#4487f2"><p style="line-height:70%"><b>Group&nbsp;</b></p></td>
+		<td bgcolor="#4487f2"><p style="line-height:70%"><b>Functions&nbsp;</b></p></td>
+	</tr>
+	<tr>
+		<td bgcolor="#4487f2" height=".025"><span style="font-size:0.85em"><b>File Manipulation &nbsp;</b></span></td>
+		<td bgcolor="#D7D7D7" height=".025"><span style="font-size:0.65em"><font color="black">`OpenFileByName(), WriteFile(),` etc. . . &nbsp; </font></span></td>
+	</tr>
+	<tr>
+		<td bgcolor="#4487f2" height=".025"><p style="line-height:20%"><span style="font-size:0.85em"><b>Mapping, Alias & Environmental Variables&nbsp;</b></span></p></td>
+		<td bgcolor="#D7D7D7" height=".025"><p style="line-height:20%"><span style="font-size:0.65em"><font color="black">`GetMapFromDevicePath(), GetFilePathFromDevicePath()`, etc . . .&nbsp;</font></span> </p></td>
+	</tr>
+	<tr>
+		<td bgcolor="#4487f2"><p style="line-height:20%"><span style="font-size:0.85em"><b>Launch Application or Script&nbsp;</b></span></p></td>
+		<td bgcolor="#D7D7D7"><p style="line-height:20%"><span style="font-size:0.65em"><font color="black">`Execute(), BatchIsActive(), IsRootShell()`,etc . . . &nbsp; </font></span></p></td>
+	</tr>
+	<tr>
+		<td bgcolor="#4487f2"><p style="line-height:20%"><span style="font-size:0.85em"><b>Miscellaneous &nbsp;</b></span></p></td>
+		<td bgcolor="#D7D7D7"><p style="line-height:20%"><span style="font-size:0.65em"><font color="black">`GetPageBreak(), EnablePageBreak()` ,etc . . . &nbsp; </font></span></p></td>
+	</tr>
+
+</table>
+
+@snap[south-west  fragment ]
+@box[bg-purple text-white rounded ](<span style="font-size:01.0em" ><font face="Arial"><b>EFI_SHELL_PROTOCOL is installed on each application image handle </b></font></span> )
+@snapend
+
+
 
 
 ---?image=/assets/images/slides/Slide29.JPG
