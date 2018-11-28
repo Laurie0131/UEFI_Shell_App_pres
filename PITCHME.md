@@ -284,11 +284,11 @@ Beyond level 3, additional command “profiles” are defined for debug, network
 		<td bgcolor="#4487f2"><p style="line-height:70%">Level/Profile&nbsp;</p></td>
 		<td bgcolor="#4487f2"><p style="line-height:70%">Commands&nbsp;</p></td>
 	</tr>
-	<tr>
+	<tr style="height:2px;" >
 		<td bgcolor="#4487f2"><p style="line-height:70%">Level 0&nbsp;</p></td>
 		<td bgcolor="#D7D7D7"><p style="line-height:70%"> &nbsp; </p></td>
 	</tr>
-	<tr>
+	<tr style="height:2px;" >
 		<td bgcolor="#4487f2"><p style="line-height:70%">Level 1&nbsp;</p></td>
 		<td bgcolor="#D7D7D7"><p style="line-height:70%"> &nbsp; </p></td>
 	</tr>
