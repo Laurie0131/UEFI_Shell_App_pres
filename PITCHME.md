@@ -138,7 +138,7 @@ Note:
 @snapend
 
 @snap[east span-30 fragment]
-@css[ text-yellow](<br><br>&nbsp;Extensive & Standardize Pre-OS UEFI Application)
+@css[ text-white](<span style="font-size:01.2em"><br><br>&nbsp;<b>Extensive & Standardize Pre-OS UEFI Application</b></span>)
 @snapend
 
 Note:
