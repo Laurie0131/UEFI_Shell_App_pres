@@ -276,6 +276,46 @@ Shell support level can be detected using an environment variable.
 
 Beyond level 3, additional command “profiles” are defined for debug, networking and driver support
 
+---
+@title[Small Size Profiles detail]
+### <p align="right"><span class="gold" >Small Size Profiles</span></p>
+<table  id="recTable">
+	<tr>
+		<td bgcolor="#4487f2"><p style="line-height:70%">Level/Profile&nbsp;</p></td>
+		<td bgcolor="#4487f2"><p style="line-height:70%">Commands&nbsp;</p></td>
+	</tr>
+	<tr>
+		<td bgcolor="#4487f2"><p style="line-height:70%">Level 0&nbsp;</p></td>
+		<td bgcolor="#D7D7D7"><p style="line-height:70%"> &nbsp; </p></td>
+	</tr>
+	<tr>
+		<td bgcolor="#4487f2"><p style="line-height:70%">Level 1&nbsp;</p></td>
+		<td bgcolor="#D7D7D7"><p style="line-height:70%"> &nbsp; </p></td>
+	</tr>
+	<tr>
+		<td bgcolor="#4487f2"><p style="line-height:70%">Level 2&nbsp;</p></td>
+		<td bgcolor="#D7D7D7"><p style="line-height:70%"> &nbsp; </p></td>
+	</tr>
+	<tr>
+		<td bgcolor="#4487f2"><p style="line-height:70%">Level 3&nbsp;</p></td>
+		<td bgcolor="#D7D7D7"><p style="line-height:70%"> &nbsp; </p></td>
+	</tr>
+	<tr>
+		<td bgcolor="#4487f2"><p style="line-height:70%">UEFI Debug Profile&nbsp;</p></td>
+		<td bgcolor="#D7D7D7"><p style="line-height:70%"> bcfg, comp, dblk, dmem, dmpstore, echo, edit, &nbsp; </p></td>
+	</tr>
+	<tr>
+		<td bgcolor="#4487f2"><p style="line-height:70%">UEFI Network Profile&nbsp;</p></td>
+		<td bgcolor="#D7D7D7"><p style="line-height:70%"> &nbsp; </p></td>
+	</tr>
+	<tr>
+		<td bgcolor="#4487f2"><p style="line-height:70%">UEFI Driver Profile&nbsp;</p></td>
+		<td bgcolor="#D7D7D7"><p style="line-height:70%"> &nbsp; </p></td>
+	</tr>
+
+</table>
+
+Note:
 
 ---?image=/assets/images/slides/Slide21.JPG
 @title[Small Size Profiles detail]
