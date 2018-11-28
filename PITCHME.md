@@ -284,33 +284,33 @@ Beyond level 3, additional command “profiles” are defined for debug, network
 		<td bgcolor="#4487f2"><p style="line-height:70%">Level/Profile&nbsp;</p></td>
 		<td bgcolor="#4487f2"><p style="line-height:70%">Commands&nbsp;</p></td>
 	</tr>
-	<tr style="height:2px;" >
-		<td bgcolor="#4487f2"><p style="line-height:70%">Level 0&nbsp;</p></td>
-		<td bgcolor="#D7D7D7"><p style="line-height:70%"> &nbsp; </p></td>
+	<tr style="height:.2px;" >
+		<td bgcolor="#4487f2"><p style="line-height:70%"><span style="font-size:0.5em">Level 0&nbsp;</span></p></td>
+		<td bgcolor="#D7D7D7"><p style="line-height:70%"><span style="font-size:0.5em"> &nbsp; </span></p></td>
 	</tr>
-	<tr style="height:2px;" >
-		<td bgcolor="#4487f2"><p style="line-height:70%">Level 1&nbsp;</p></td>
-		<td bgcolor="#D7D7D7"><p style="line-height:70%"> &nbsp; </p></td>
-	</tr>
-	<tr>
-		<td bgcolor="#4487f2"><p style="line-height:70%">Level 2&nbsp;</p></td>
-		<td bgcolor="#D7D7D7"><p style="line-height:70%"> &nbsp; </p></td>
+	<tr style="height:.2px;" >
+		<td bgcolor="#4487f2"><p style="line-height:70%"><span style="font-size:0.5em">Level 1&nbsp;</span></p></td>
+		<td bgcolor="#D7D7D7"><p style="line-height:70%"><span style="font-size:0.5em"> &nbsp;</span> </p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#4487f2"><p style="line-height:70%">Level 3&nbsp;</p></td>
-		<td bgcolor="#D7D7D7"><p style="line-height:70%"> &nbsp; </p></td>
+		<td bgcolor="#4487f2"><p style="line-height:70%"><span style="font-size:0.5em">Level 2&nbsp;</span></p></td>
+		<td bgcolor="#D7D7D7"><p style="line-height:70%"><span style="font-size:0.5em"> &nbsp; </span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#4487f2"><p style="line-height:70%">UEFI Debug Profile&nbsp;</p></td>
-		<td bgcolor="#D7D7D7"><p style="line-height:70%"> bcfg, comp, dblk, dmem, dmpstore, echo, edit, &nbsp; </p></td>
+		<td bgcolor="#4487f2"><p style="line-height:70%"><span style="font-size:0.5em">Level 3&nbsp;</span></p></td>
+		<td bgcolor="#D7D7D7"><p style="line-height:70%"><span style="font-size:0.5em"> &nbsp; </span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#4487f2"><p style="line-height:70%">UEFI Network Profile&nbsp;</p></td>
-		<td bgcolor="#D7D7D7"><p style="line-height:70%"> &nbsp; </p></td>
+		<td bgcolor="#4487f2"><p style="line-height:70%"><span style="font-size:0.5em">UEFI Debug Profile&nbsp;</span></p></td>
+		<td bgcolor="#D7D7D7"><p style="line-height:70%"><span style="font-size:0.5em"> bcfg, comp, dblk, dmem, dmpstore, echo, edit, &nbsp; </span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#4487f2"><p style="line-height:70%">UEFI Driver Profile&nbsp;</p></td>
-		<td bgcolor="#D7D7D7"><p style="line-height:70%"> &nbsp; </p></td>
+		<td bgcolor="#4487f2"><p style="line-height:70%"><span style="font-size:0.5em">UEFI Network Profile&nbsp;</span></p></td>
+		<td bgcolor="#D7D7D7"><p style="line-height:70%"><span style="font-size:0.5em"> &nbsp; </span></p></td>
+	</tr>
+	<tr>
+		<td bgcolor="#4487f2"><p style="line-height:70%"><span style="font-size:0.5em">UEFI Driver Profile&nbsp;</span></p></td>
+		<td bgcolor="#D7D7D7"><p style="line-height:70%"><span style="font-size:0.5em"> &nbsp;</span> </p></td>
 	</tr>
 
 </table>
