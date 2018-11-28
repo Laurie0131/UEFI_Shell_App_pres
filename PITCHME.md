@@ -394,19 +394,19 @@ Note:
 	</tr>
 	<tr>
 		<td bgcolor="#4487f2" height=".025"><span style="font-size:0.85em"><b>File Manipulation &nbsp;</b></span></td>
-		<td bgcolor="#D7D7D7" height=".025"><span style="font-size:0.65em"><font color="black">`OpenFileByName(), WriteFile(),` etc. . . &nbsp; </font></span></td>
+		<td bgcolor="#D7D7D7" height=".025"><span style="font-size:0.5em"><font color="black">`OpenFileByName(), WriteFile(),` etc. . . &nbsp; </font></span></td>
 	</tr>
 	<tr>
 		<td bgcolor="#4487f2" height=".025"><p style="line-height:20%"><span style="font-size:0.85em"><b>Mapping, Alias & Environmental Variables&nbsp;</b></span></p></td>
-		<td bgcolor="#D7D7D7" height=".025"><p style="line-height:20%"><span style="font-size:0.65em"><font color="black">`GetMapFromDevicePath(), GetFilePathFromDevicePath()`, etc . . .&nbsp;</font></span> </p></td>
+		<td bgcolor="#D7D7D7" height=".025"><p style="line-height:20%"><span style="font-size:0.5em"><font color="black">`GetMapFromDevicePath(), GetFilePathFromDevicePath()`, etc . . .&nbsp;</font></span> </p></td>
 	</tr>
 	<tr>
 		<td bgcolor="#4487f2"><p style="line-height:20%"><span style="font-size:0.85em"><b>Launch Application or Script&nbsp;</b></span></p></td>
-		<td bgcolor="#D7D7D7"><p style="line-height:20%"><span style="font-size:0.65em"><font color="black">`Execute(), BatchIsActive(), IsRootShell()`,etc . . . &nbsp; </font></span></p></td>
+		<td bgcolor="#D7D7D7"><p style="line-height:20%"><span style="font-size:0.5em"><font color="black">`Execute(), BatchIsActive(), IsRootShell()`,etc . . . &nbsp; </font></span></p></td>
 	</tr>
 	<tr>
 		<td bgcolor="#4487f2"><p style="line-height:20%"><span style="font-size:0.85em"><b>Miscellaneous &nbsp;</b></span></p></td>
-		<td bgcolor="#D7D7D7"><p style="line-height:20%"><span style="font-size:0.65em"><font color="black">`GetPageBreak(), EnablePageBreak()` ,etc . . . &nbsp; </font></span></p></td>
+		<td bgcolor="#D7D7D7"><p style="line-height:20%"><span style="font-size:0.5em"><font color="black">`GetPageBreak(), EnablePageBreak()` ,etc . . . &nbsp; </font></span></p></td>
 	</tr>
 
 </table>
