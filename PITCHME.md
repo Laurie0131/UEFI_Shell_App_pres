@@ -132,7 +132,7 @@ Note:
 @title[What is a UEFI Shell? 06]
 <p align="right"><span class="gold" >What is a UEFI Shell?</span></p>
 
-@snap[north-east span-35]
+@snap[north-east span-40]
 @css[ text-yellow](<br>&nbsp;)
 ![ItsAn](/assets/images/Its_an.png)
 @snapend
