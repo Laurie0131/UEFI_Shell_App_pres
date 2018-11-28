@@ -180,19 +180,19 @@ Note:
 
 
 @snap[west span-45  fragment]
-@box[bg-blue text-white waved ](<span style="font-size:02.5em" ><font face="Arial">Small Size Profiles</font></span> )
+@box[bg-blue text-white waved ](<span style="font-size:01.5em" ><font face="Arial">Small Size Profiles</font></span> )
 @snapend
 
 @snap[east span-45  fragment]
-@box[bg-yellow text-white waved ](<span style="font-size:02.5em" ><font face="Arial">Shell Commands</font> </span> )
+@box[bg-yellow text-white waved ](<span style="font-size:01.5em" ><font face="Arial">Shell Commands</font> </span> )
 @snapend
 
 @snap[south-west span-45  fragment]
-@box[bg-purple text-white waved ](<span style="font-size:02.5em" ><font face="Arial">New Shell API</font> </span><br> )
+@box[bg-purple text-white waved ](<span style="font-size:01.5em" ><font face="Arial">New Shell API</font> </span><br> )
 @snapend
 
 @snap[south-east span-45  fragment]
-@box[bg-green text-white waved  ](<span style="font-size:02.5em" ><font face="Arial">Enhanced Scripting</font> </span><br>)
+@box[bg-green text-white waved  ](<span style="font-size:01.5em" ><font face="Arial">Enhanced Scripting</font> </span><br>)
 @snapend
 
 Note:
