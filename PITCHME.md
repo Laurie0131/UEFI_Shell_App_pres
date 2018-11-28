@@ -286,31 +286,31 @@ Beyond level 3, additional command “profiles” are defined for debug, network
 	</tr>
 	<tr>
 		<td bgcolor="#4487f2" height=".025"><span style="font-size:0.5em">Level 0&nbsp;</span></td>
-		<td bgcolor="#D7D7D7" height=".025"><span style="font-size:0.5em"> &nbsp; </span></td>
+		<td bgcolor="#D7D7D7" height=".025"><span style="font-size:0.5em"><font color="black">Shell API <b>Only</b> &nbsp; </font></span></td>
 	</tr>
 	<tr>
 		<td bgcolor="#4487f2" height=".025"><p style="line-height:20%"><span style="font-size:0.5em">Level 1&nbsp;</span></p></td>
-		<td bgcolor="#D7D7D7" height=".025"><p style="line-height:20%"><span style="font-size:0.5em"> &nbsp;</span> </p></td>
+		<td bgcolor="#D7D7D7" height=".025"><p style="line-height:20%"><span style="font-size:0.5em"><font color="black">Basic scripting support &nbsp;</font></span> </p></td>
 	</tr>
 	<tr>
 		<td bgcolor="#4487f2"><p style="line-height:20%"><span style="font-size:0.5em">Level 2&nbsp;</span></p></td>
-		<td bgcolor="#D7D7D7"><p style="line-height:20%"><span style="font-size:0.5em"> &nbsp; </span></p></td>
+		<td bgcolor="#D7D7D7"><p style="line-height:20%"><span style="font-size:0.5em"><font color="black">File Support, cmds(cd, cp, mv) &nbsp; </font></span></p></td>
 	</tr>
 	<tr>
 		<td bgcolor="#4487f2"><p style="line-height:20%"><span style="font-size:0.5em">Level 3&nbsp;</span></p></td>
-		<td bgcolor="#D7D7D7"><p style="line-height:20%"><span style="font-size:0.5em"> &nbsp; </span></p></td>
+		<td bgcolor="#D7D7D7"><p style="line-height:20%"><span style="font-size:0.5em"><font color="black"> Adds interactive CLI + Profiles&nbsp; </font></span></p></td>
 	</tr>
 	<tr>
 		<td bgcolor="#4487f2"><p style="line-height:20%"><span style="font-size:0.5em">UEFI Debug Profile&nbsp;</span></p></td>
-		<td bgcolor="#D7D7D7"><p style="line-height:20%"><span style="font-size:0.5em"> bcfg, comp, dblk, dmem, dmpstore, echo, edit, &nbsp; </span></p></td>
+		<td bgcolor="#D7D7D7"><p style="line-height:20%"><span style="font-size:0.5em"><font color="blue"> bcfg, comp, dblk, dmem, dmpstore, echo, edit, &nbsp; </font></span></p></td>
 	</tr>
 	<tr>
 		<td bgcolor="#4487f2"><p style="line-height:20%"><span style="font-size:0.5em">UEFI Network Profile&nbsp;</span></p></td>
-		<td bgcolor="#D7D7D7"><p style="line-height:20%"><span style="font-size:0.5em"> &nbsp; </span></p></td>
+		<td bgcolor="#D7D7D7"><p style="line-height:20%"><span style="font-size:0.5em"><font color="blue">ipconfig, ping &nbsp; </font></span></p></td>
 	</tr>
 	<tr>
 		<td bgcolor="#4487f2"><p style="line-height:20%"><span style="font-size:0.5em">UEFI Driver Profile&nbsp;</span></p></td>
-		<td bgcolor="#D7D7D7"><p style="line-height:20%"><span style="font-size:0.5em"> &nbsp;</span> </p></td>
+		<td bgcolor="#D7D7D7"><p style="line-height:20%"><span style="font-size:0.5em"><font color="blue"> drvdiag, openinfo, reconnect, load, unload&nbsp;</font></span> </p></td>
 	</tr>
 
 </table>
