@@ -281,35 +281,35 @@ Beyond level 3, additional command “profiles” are defined for debug, network
 ### <p align="right"><span class="gold" >Small Size Profiles</span></p>
 <table>
 	<tr>
-		<td bgcolor="#4487f2"><p style="line-height:70%">Level/Profile&nbsp;</p></td>
-		<td bgcolor="#4487f2"><p style="line-height:70%">Commands&nbsp;</p></td>
+		<td bgcolor="#4487f2"><p style="line-height:70%"><b>Level&nbsp;/&nbsp;Profile&nbsp;</b></p></td>
+		<td bgcolor="#4487f2"><p style="line-height:70%"><b>Commands&nbsp;</b></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#4487f2" height=".025"><span style="font-size:0.85em">Level 0&nbsp;</span></td>
+		<td bgcolor="#4487f2" height=".025"><span style="font-size:0.85em"><b>Level 0&nbsp;</b></span></td>
 		<td bgcolor="#D7D7D7" height=".025"><span style="font-size:0.65em"><font color="black">Shell API <b>Only</b> &nbsp; </font></span></td>
 	</tr>
 	<tr>
-		<td bgcolor="#4487f2" height=".025"><p style="line-height:20%"><span style="font-size:0.85em">Level 1&nbsp;</span></p></td>
+		<td bgcolor="#4487f2" height=".025"><p style="line-height:20%"><span style="font-size:0.85em"><b>Level 1&nbsp;</b></span></p></td>
 		<td bgcolor="#D7D7D7" height=".025"><p style="line-height:20%"><span style="font-size:0.65em"><font color="black">Basic scripting support &nbsp;</font></span> </p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#4487f2"><p style="line-height:20%"><span style="font-size:0.85em">Level 2&nbsp;</span></p></td>
+		<td bgcolor="#4487f2"><p style="line-height:20%"><span style="font-size:0.85em"><b>Level 2&nbsp;</b></span></p></td>
 		<td bgcolor="#D7D7D7"><p style="line-height:20%"><span style="font-size:0.65em"><font color="black">File Support, cmds(cd, cp, mv) &nbsp; </font></span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#4487f2"><p style="line-height:20%"><span style="font-size:0.85em">Level 3&nbsp;</span></p></td>
+		<td bgcolor="#4487f2"><p style="line-height:20%"><span style="font-size:0.85em"><b>Level 3&nbsp;</b></span></p></td>
 		<td bgcolor="#D7D7D7"><p style="line-height:20%"><span style="font-size:0.65em"><font color="black"> Adds interactive CLI + Profiles&nbsp; </font></span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#4487f2"><p style="line-height:20%"><span style="font-size:0.85em">UEFI Debug Profile&nbsp;</span></p></td>
+		<td bgcolor="#4487f2"><p style="line-height:20%"><span style="font-size:0.85em"><b>UEFI Debug Profile&nbsp;</b></span></p></td>
 		<td bgcolor="#D7D7D7"><p style="line-height:20%"><span style="font-size:0.55em"><font color="#4487f2"> bcfg, comp, dblk, dmem, dmpstore, echo, edit, &nbsp; </font></span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#4487f2"><p style="line-height:20%"><span style="font-size:0.85em">UEFI Network Profile&nbsp;</span></p></td>
+		<td bgcolor="#4487f2"><p style="line-height:20%"><span style="font-size:0.85em"><b>UEFI Network Profile&nbsp;</b></span></p></td>
 		<td bgcolor="#D7D7D7"><p style="line-height:20%"><span style="font-size:0.55em"><font color="#4487f2">ipconfig, ping &nbsp; </font></span></p></td>
 	</tr>
 	<tr>
-		<td bgcolor="#4487f2"><p style="line-height:20%"><span style="font-size:0.85em">UEFI Driver Profile&nbsp;</span></p></td>
+		<td bgcolor="#4487f2"><p style="line-height:20%"><span style="font-size:0.85em"><b>UEFI Driver Profile&nbsp;</b></span></p></td>
 		<td bgcolor="#D7D7D7"><p style="line-height:20%"><span style="font-size:0.55em"><font color="#4487f2"> drvdiag, openinfo, reconnect, load, unload&nbsp;</font></span> </p></td>
 	</tr>
 
