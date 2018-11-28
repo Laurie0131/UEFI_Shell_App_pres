@@ -386,7 +386,8 @@ Note:
 ---
 @title[New Shell API detail]
 ### <p align="right"><span class="gold" >New Shell API</span></p>
-<p align="center"><span style="font-size:0.9em">`EFI_SHELL_PROTOCOL`</span></p>
+<p align="center"><span style="font-size:01.1em; background-color:#4487f2">&nbsp;&nbsp;&nbsp;<span style="font-size:0.85em">`EFI_SHELL_PROTOCOL`</span>&nbsp;&nbsp;&nbsp;</span></p>
+
 <table>
 	<tr>
 		<td bgcolor="#4487f2"><p style="line-height:70%"><b>Group&nbsp;</b></p></td>
@@ -412,7 +413,7 @@ Note:
 </table>
 
 @snap[south-west  fragment ]
-@box[bg-purple text-white rounded ](<span style="font-size:01.0em" ><font face="Arial"><b>EFI_SHELL_PROTOCOL is installed on each application image handle </b></font></span> )
+@box[bg-purple text-white rounded ](<span style="font-size:01.0em" ><font face="Arial"><b>`EFI_SHELL_PROTOCOL` is installed on each application image handle </b></font></span> )
 @snapend
 
 
