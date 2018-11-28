@@ -117,14 +117,6 @@ Note:
 
 Note:
 
-+++?image=/assets/images/slides/Slide8.JPG
-<!-- .slide: data-background-transition="none" -->
-<!-- .slide: data-transition="none" -->
-@title[What is a UEFI Shell? 05]
-<p align="right"><span class="gold" >What is a UEFI Shell?</span></p>
-
-
-Note:
 
 +++?image=/assets/images/slides/Slide8.JPG
 <!-- .slide: data-background-transition="none" -->
@@ -180,6 +172,79 @@ USE THESE AS BULLETS
 <span style="font-size:0.7em" >UEFI Shell v2.0 specification first released 2008 – Latest V2.2 Jan 2016 </span>
 
 Note:
+
+---
+@title[UEFI Shell Elements]
+### <p align="right"><span class="gold" >UEFI Shell Elements</span></p>
+
+
+
+@snap[west span-45  fragment]
+@box[bg-blue text-white waved ](<span style="font-size:02.5em" ><font face="Arial">Small Size Profiles</font></span> )
+@snapend
+
+@snap[east span-45  fragment]
+@box[bg-yellow text-white waved ](<span style="font-size:02.5em" ><font face="Arial">Shell Commands</font> </span> )
+@snapend
+
+@snap[south-west span-45  fragment]
+@box[bg-purple text-white waved ](<span style="font-size:02.5em" ><font face="Arial">New Shell API</font> </span><br> )
+@snapend
+
+@snap[south-east span-45  fragment]
+@box[bg-green text-white waved  ](<span style="font-size:02.5em" ><font face="Arial">Enhanced Scripting</font> </span><br>)
+@snapend
+
+Note:
+
+1)Small Size Profiles
+Took the UEFI Shell that Intel has been working on as a starting point 4 areas for size
+
+Levels of support
+Different levels of support for different usage scenarios and space constraints:
+Level 0: No Command-line Interface (CLI). No shell commands. Only shell API.
+Level 1: Adds basic scripting support
+Level 2: Adds basic commands (cd, cp, mv)
+Level 3: Adds interactive CLI
+Shell support level can be detected using an environment variable.
+Beyond level 3, additional command “profiles” are defined for debug, networking and driver support
+
+2) Shell Commands
+
+Standardized existing usage
+Updated for UEFI 2.1+
+Standardized argument usage and output
+Example some of the grep commands are standardized
+
+3) New Shell API
+Smaller executable size – put common functionally back into the shell
+Expose previously hidden shell
+  capabilities – the shell does some really cool things
+– Example to change the current directory (CD) it did not exposes this and no one else could take advantage of this unless they were linked right into it
+
+Execution break support – control “C”
+
+4) Enhanced Scripting
+Compatible with existing scripts
+Added input redirection & piping
+Enhanced if command
+   example added capability to use shell without a HD or RAM Drive present. – may not have a HD for Manufacturing 
+May not have a Hard drive input output to environment variables
+
+
+
+UEFI Advantages = UEFI Shell Advantages
+- Flat memory model
+- Robust, extensible architecture
+- File system, Network, Keyboard, Mouse
+
+- UEFI Works = UEFI Shell Works
+- No additional requirements to run
+
+- Write Once/Run Anywhere For Pre-OS
+- With standard API/commands = applications from different ISVs work on any platform (Ex: UEFI SCT)
+
+
 
 
 ---?image=/assets/images/slides/Slide14.JPG
