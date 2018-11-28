@@ -279,7 +279,7 @@ Beyond level 3, additional command “profiles” are defined for debug, network
 ---
 @title[Small Size Profiles detail]
 ### <p align="right"><span class="gold" >Small Size Profiles</span></p>
-<table  id="recTable">
+<table>
 	<tr>
 		<td bgcolor="#4487f2"><p style="line-height:70%">Level/Profile&nbsp;</p></td>
 		<td bgcolor="#4487f2"><p style="line-height:70%">Commands&nbsp;</p></td>
