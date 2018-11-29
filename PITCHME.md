@@ -507,15 +507,15 @@ sorting of handles to determine parent controllers, child controllers, or which 
 
 
 @snap[west span-45  fragment]
-@box[bg-blue text-white rounded ](<span style="font-size:01.5em" ><font face="Arial">Support binary portability</font></span> )
+@box[bg-blue text-white rounded ](<span style="font-size:01.25em" ><font face="Arial">Support binary portability</font></span> )
 @snapend
 
 @snap[east span-45  fragment]
-@box[bg-yellow text-blue rounded ](<span style="font-size:01.5em" ><font face="Arial">Shell protocols<br></font> </span> )
+@box[bg-green text-white rounded ](<span style="font-size:01.25em" ><font face="Arial">Shell protocols<br></font> </span><br> )
 @snapend
 
 @snap[south span-45  fragment]
-@box[bg-purple text-white rounded ](<span style="font-size:01.05em" ><font face="Arial">Shell parameters&nbsp;</font> </span><span style="font-size:0.6em" ><br>&num;`include' &lt;`Library/ShellLib.h`&gt;<br>'gEfiShellParametersProtocol`<br>`gEfiShellProtocol` </span> )
+@box[bg-purple text-white rounded ](<span style="font-size:01.05em" ><font face="Arial">Shell parameters&nbsp;</font> </span><span style="font-size:0.6em" ><br>&num;`include` &lt;`Library/ShellLib.h`&gt;<br>`gEfiShellParametersProtocol`<br>`gEfiShellProtocol` </span> )
 @snapend
 
 
