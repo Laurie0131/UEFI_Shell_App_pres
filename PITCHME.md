@@ -522,12 +522,6 @@ sorting of handles to determine parent controllers, child controllers, or which 
 @snapend
 
 
-
----?image=/assets/images/slides/Slide35.JPG
-<!-- .slide: data-transition="none" -->
-@title[EDK II ShellPkg]
-<p align="right"><span style="font-size:01.1em"><font color="#e49436">EDK II ShellPkg</font></span></p>
-
 Note: 
 
 
@@ -542,40 +536,10 @@ Note:
     - gEfiShellParametersProtocol  
     - gEfiShellProtocol
 
-	
-+++?image=/assets/images/slides/Slide36.JPG
-<!-- .slide: data-background-transition="none" -->
-<!-- .slide: data-transition="none" -->
-@title[EDK II ShellPkg 02]
-<p align="right"><span style="font-size:01.1em"><font color="#e49436">EDK II ShellPkg</font></span></p>
 
-Note: 
-
-
-+++?image=/assets/images/slides/Slide37.JPG
-<!-- .slide: data-background-transition="none" -->
-<!-- .slide: data-transition="none" -->
-@title[EDK II ShellPkg 03]
-<p align="right"><span style="font-size:01.1em"><font color="#e49436">EDK II ShellPkg</font></span></p>
-
-Note: 
-
-
-- EDK II native library for shell applications 
-  - ShellPkg on Open Source, Repository: https://github.com/tianocore/edk2/tree/master/ShellPkg
-- Supports binary portability between EFI Shell 1.0 and UEFI 2.0 shell
-- Shell protocols: Calls into UEFI (default) or EFI for functionality
-- Shell parameters
-  - Handles parameter parsing for flag, value, and position command-line parameters
-  - EDK II UEFI Shell 2.0 Library globals in Shell applications
-    - #Include <Library/ShellLib.h>
-    - gEfiShellParametersProtocol  
-    - gEfiShellProtocol
-
-	
 ---
 @title[Shell Call example]
-<p align="right"><span style="font-size:01.1em"><font color="#e49436">Shell Call Example</font></span></p>
+<p align="right"><span style="font-size:01.1em"><font color="#e49436"><b>Shell Call Example</b></font></span></p>
 
 ```C++
 // use UEFI shell 2.x interface
@@ -605,8 +569,14 @@ Note:
 
 Note:
 
----?image=/assets/images/slides/Slide40.JPG
+---
 @title[Enhanced Scripting]
+
+
+@snap[midpoint span-65  ]
+@box[bg-green text-white waved ](<span style="font-size:02.5em" ><font face="Arial">Enhanced Scripting</font></span> )
+@snapend
+
 
 Note: 
 
@@ -614,14 +584,14 @@ Note:
 ---
 @title[Enhanced Scripting details]
 <br>
-<p align="center"><span style="font-size:01.1em"><font color="#e49436">Shell Enhanced Scripting</font></span></p>
+<p align="center"><span style="font-size:01.1em"><font color="#e49436"><b>Shell Enhanced Scripting</b></font></span></p>
 <br>
  @fa[circle gp-bullet-magenta]<span style="font-size:0.9em">&nbsp;&nbsp;Contains <b>.nsh</b> extention</span> <br>
- @fa[circle gp-bullet-gold]<span style="font-size:0.9em">&nbsp;&nbsp;"Startup.nsh" runs first</span> <br>
+ @fa[circle gp-bullet-gold]<span style="font-size:0.9em">&nbsp;&nbsp;"`Startup.nsh`" runs first</span> <br>
  @fa[circle gp-bullet-cyan]<span style="font-size:0.9em">&nbsp;&nbsp;Supports:</span><br>
- <span style="font-size:0.7em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;Command-line arguments</span><br>
- <span style="font-size:0.7em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;Standard script commands</span> <br>
- <span style="font-size:0.7em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;Input & output redirection & pipes</span><br>
+ <span style="font-size:0.8em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;Command-line arguments</span><br>
+ <span style="font-size:0.8em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;Standard script commands</span> <br>
+ <span style="font-size:0.8em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;Input & output redirection & pipes</span><br>
  
 
 Note: 
@@ -643,7 +613,7 @@ Note:
 ---?image=/assets/images/slides/Slide43.JPG
 @title[Shell Scripts (Benefits)]
 <br>
-<p align="center"><span style="font-size:01.1em"><font color="#e49436">Shell Scripts (Benefits)</font></span></p>
+<p align="center"><span style="font-size:01.1em"><font color="#e49436"><b>Shell Scripts (Benefits)</b></font></span></p>
 
 Note: 
 
@@ -731,7 +701,7 @@ Note:
 UEFI Shell Documentation updated in the Engineering Resources section
 
 
----?
+---
 @title[UEFI Shell 2.2 Vs. EFI Shell 1.0]
 <br>
 <p align="center"><span style="font-size:01.1em"><font color="#e49436">UEFI Shell 2.2   &nbsp;&nbsp;Vs.   &nbsp;&nbsp;EFI Shell 1.0</font></span></p>
@@ -751,7 +721,7 @@ UEFI Shell Documentation updated in the Engineering Resources section
 //
 ```
 
-<span style="font-size:0.6em">&nbsp;&nbsp;See example C file: <a href="https://github.com/Laurie0131/UEFI_Shell_App_pres/tree/master/Sample/MyShellApp/MyShellApp.c">MyShellApp.c </a></span>
+<span style="font-size:0.6em">&nbsp;&nbsp;See example C file: <a href="https://github.com/tianocore-training/UEFI_Shell_App_pres/tree/master/Sample/MyShellApp/MyShellApp.c">MyShellApp.c </a></span>
 
 Note:
 
