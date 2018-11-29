@@ -513,10 +513,10 @@ sorting of handles to determine parent controllers, child controllers, or which 
 
 @snap[north-east span-45  fragment]
 @css[text-yellow](<br> <br>&nbsp;)
-@box[bg-green text-white rounded ](<span style="font-size:01.5em" ><font face="Arial"><br>Shell protocols<br></font> </span><br> )
+@box[bg-green text-white rounded ](<span style="font-size:01.5em" ><font face="Arial">Shell protocols<br></font> </span><br> )
 @snapend
 
-@snap[south span-45  fragment]
+@snap[south span-55  fragment]
 @box[bg-purple text-white rounded ](<span style="font-size:01.5em" ><font face="Arial">Shell parameters&nbsp;</font> </span><span style="font-size:0.6em" ><br>&num;`include` &lt;`Library/ShellLib.h`&gt;<br>`gEfiShellParametersProtocol`<br>`gEfiShellProtocol` </span> )
 
 @snapend
