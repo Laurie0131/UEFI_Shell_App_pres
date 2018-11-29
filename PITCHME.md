@@ -503,21 +503,21 @@ sorting of handles to determine parent controllers, child controllers, or which 
 
 ---
 @title[EDK II ShellPkg]
-<p align="right"><span style="font-size:01.1em"><font color="#e49436">EDK II ShellPkg</font></span></p>
+<p align="right"><span style="font-size:01.1em"><font color="#e49436"><b>EDK II ShellPkg</b></font></span></p>
 
 
 @snap[north-west span-45  fragment]
-@css[text-yellow]( <br>&nbsp;)
-@box[bg-blue text-white rounded ](<span style="font-size:01.25em" ><font face="Arial">Support binary portability</font></span> )
+@css[text-yellow](<br> <br>&nbsp;)
+@box[bg-blue text-white rounded ](<span style="font-size:01.5em" ><font face="Arial">Support binary portability</font></span> )
 @snapend
 
 @snap[north-east span-45  fragment]
-@css[text-yellow]( <br>&nbsp;)
-@box[bg-green text-white rounded ](<span style="font-size:01.25em" ><font face="Arial">Shell protocols<br></font> </span><br> )
+@css[text-yellow](<br> <br>&nbsp;)
+@box[bg-green text-white rounded ](<span style="font-size:01.5em" ><font face="Arial">Shell protocols<br></font> </span><br> )
 @snapend
 
 @snap[south span-45  fragment]
-@box[bg-purple text-white rounded ](<span style="font-size:01.25em" ><font face="Arial">Shell parameters&nbsp;</font> </span><span style="font-size:0.6em" ><br>&num;`include` &lt;`Library/ShellLib.h`&gt;<br>`gEfiShellParametersProtocol`<br>`gEfiShellProtocol` </span> )
+@box[bg-purple text-white rounded ](<span style="font-size:01.5em" ><font face="Arial">Shell parameters&nbsp;</font> </span><span style="font-size:0.6em" ><br>&num;`include` &lt;`Library/ShellLib.h`&gt;<br>`gEfiShellParametersProtocol`<br>`gEfiShellProtocol` </span> )
 @css[text-yellow]( <br>&nbsp;)
 @snapend
 
