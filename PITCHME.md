@@ -513,7 +513,7 @@ sorting of handles to determine parent controllers, child controllers, or which 
 
 @snap[north-east span-45  fragment]
 @css[text-yellow](<br> <br>&nbsp;)
-@box[bg-green text-white rounded ](<span style="font-size:01.5em" ><font face="Arial">Shell protocols<br></font> </span><br><br> )
+@box[bg-green text-white rounded ](<span style="font-size:01.5em" ><font face="Arial">Shell protocols<br>&nbsp;</font> </span> )
 @snapend
 
 @snap[south span-55  fragment]
