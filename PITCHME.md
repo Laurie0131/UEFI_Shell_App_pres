@@ -375,7 +375,7 @@ Only the commands built with the currenet shell being executed will also be list
 @title[New Shell API]
 
 @snap[midpoint span-65  ]
-@box[bg-purple text-white waved ](<span style="font-size:02.5em" ><font face="Arial">New Shell API</font></span> )
+@box[bg-purple text-white waved ](<span style="font-size:02.5em" ><font face="Arial">New Shell API</font></span> <br>)
 @snapend
 
 Note:
