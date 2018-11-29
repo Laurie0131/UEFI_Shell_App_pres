@@ -506,16 +506,19 @@ sorting of handles to determine parent controllers, child controllers, or which 
 <p align="right"><span style="font-size:01.1em"><font color="#e49436">EDK II ShellPkg</font></span></p>
 
 
-@snap[west span-45  fragment]
+@snap[north-west span-45  fragment]
+@css[text-yellow]( <br>&nbsp;)
 @box[bg-blue text-white rounded ](<span style="font-size:01.25em" ><font face="Arial">Support binary portability</font></span> )
 @snapend
 
-@snap[east span-45  fragment]
+@snap[north-east span-45  fragment]
+@css[text-yellow]( <br>&nbsp;)
 @box[bg-green text-white rounded ](<span style="font-size:01.25em" ><font face="Arial">Shell protocols<br></font> </span><br> )
 @snapend
 
 @snap[south span-45  fragment]
-@box[bg-purple text-white rounded ](<span style="font-size:01.05em" ><font face="Arial">Shell parameters&nbsp;</font> </span><span style="font-size:0.6em" ><br>&num;`include` &lt;`Library/ShellLib.h`&gt;<br>`gEfiShellParametersProtocol`<br>`gEfiShellProtocol` </span> )
+@box[bg-purple text-white rounded ](<span style="font-size:01.25em" ><font face="Arial">Shell parameters&nbsp;</font> </span><span style="font-size:0.6em" ><br>&num;`include` &lt;`Library/ShellLib.h`&gt;<br>`gEfiShellParametersProtocol`<br>`gEfiShellProtocol` </span> )
+@css[text-yellow]( <br>&nbsp;)
 @snapend
 
 
