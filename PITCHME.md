@@ -413,15 +413,9 @@ Note:
 </table>
 
 @snap[south-west  fragment ]
-@box[bg-blue text-white rounded ](<span style="font-size:01.0em" ><font face="Arial"><b>`EFI_SHELL_PROTOCOL` is installed on each application image handle </b></font></span> )
+@box[bg-purple text-white rounded ](<span style="font-size:01.0em" ><font face="Arial"><b>`EFI_SHELL_PROTOCOL` is installed on each application image handle </b></font></span> )
 @snapend
 
-
-
-
----?image=/assets/images/slides/Slide29.JPG
-@title[New Shell API detail]
-### <p align="right"><span class="gold" >New Shell API</span></p>
 
 Note:
 ### New Shell API
@@ -504,6 +498,25 @@ sorting of handles to determine parent controllers, child controllers, or which 
 
 - ShellCommandLib 
   - fully usable only when linked within the shell binary and therefore only by internal shell commands. This provides extra features for internal commands.
+
+
+
+---
+@title[EDK II ShellPkg]
+<p align="right"><span style="font-size:01.1em"><font color="#e49436">EDK II ShellPkg</font></span></p>
+
+
+@snap[west span-45  fragment]
+@box[bg-blue text-white waved ](<span style="font-size:01.5em" ><font face="Arial">Support binary portability</font></span> )
+@snapend
+
+@snap[east span-45  fragment]
+@box[bg-yellow text-blue waved ](<span style="font-size:01.5em" ><font face="Arial">Shell protocols</font> </span> )
+@snapend
+
+@snap[south span-45  fragment]
+@box[bg-purple text-white waved ](<span style="font-size:01.5em" ><font face="Arial">Shell parameters&nbsp;</font> </span><span style="font-size:0.8em" ><br>`#include <Library/ShellLib.h>`<br>'gEfiShellParametersProtocol`<br>`gEfiShellProtocol` </span> )
+@snapend
 
 
 
