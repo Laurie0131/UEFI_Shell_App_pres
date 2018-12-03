@@ -625,7 +625,7 @@ Note:
 <br>
 <br>
 <br>
-<span style="font-size:01.2em">Preform basic flow control</span>
+<span style="font-size:01.2em">Preform basic flow control&nbsp;&nbsp;&nbsp;</span>
 @snapend
 
 
@@ -634,7 +634,7 @@ Note:
 @snapend
 
 @snap[west span-70 fragment  ]
-<span style="font-size:01.2em">Allows branching / looping</span>
+<span style="font-size:01.2em">&nbsp;&nbsp;&nbsp;Allows branching / looping&nbsp;&nbsp;&nbsp;</span>
 @snapend
 
 
@@ -644,6 +644,7 @@ Note:
 
 @snap[south-east span-70 fragment  ]
 <span style="font-size:01.2em">Users can control input, output and script nesting</span>
+<br>
 <br>
 <br>
 @snapend
