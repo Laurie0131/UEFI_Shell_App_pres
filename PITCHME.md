@@ -612,10 +612,9 @@ Note:
 
 ---
 @title[Shell Scripts (Benefits)]
-<br>
 <p align="center"><span style="font-size:01.1em"><font color="#e49436"><b>Shell Scripts (Benefits)</b></font></span></p>
 
-@snap[north-west span-35  ]
+@snap[north-west span-25  ]
 <br>
 <br>
 ![shell1](/assets/images/shell1.png)
@@ -624,11 +623,13 @@ Note:
 @snap[north-east span-70 fragment  ]
 <br>
 <br>
+<br>
+<br>
 <span style="font-size:01.2em">Preform basic flow control</span>
 @snapend
 
 
-@snap[east span-35 fragment ]
+@snap[east span-25 fragment ]
 ![shell2](/assets/images/shell2.png)
 @snapend
 
@@ -637,12 +638,14 @@ Note:
 @snapend
 
 
-@snap[south-west span-35 fragment ]
+@snap[south-west span-25 fragment ]
 ![shell3](/assets/images/shell3.png)
 @snapend
 
 @snap[south-east span-70 fragment  ]
 <span style="font-size:01.2em">Users can control input, output and script nesting</span>
+<br>
+<br>
 @snapend
 
 
