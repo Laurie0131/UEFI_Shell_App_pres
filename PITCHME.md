@@ -620,12 +620,12 @@ Note:
 ![shell1](/assets/images/shell1.png)
 @snapend
 
-@snap[north-east span-70 fragment  ]
+@snap[north-east span-70   ]
 <br>
 <br>
 <br>
 <br>
-<span style="font-size:01.2em">Preform basic flow control&nbsp;&nbsp;&nbsp;</span>
+<span style="font-size:01.2em">Preform basic flow control&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 @snapend
 
 
@@ -634,7 +634,7 @@ Note:
 @snapend
 
 @snap[west span-70 fragment  ]
-<span style="font-size:01.2em">&nbsp;&nbsp;&nbsp;Allows branching / looping&nbsp;&nbsp;&nbsp;</span>
+<span style="font-size:01.2em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Allows branching / looping&nbsp;&nbsp;&nbsp;</span>
 @snapend
 
 
