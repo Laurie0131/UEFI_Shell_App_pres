@@ -12,7 +12,7 @@
 Note:
   PITCHME.md for UEFI / EDK II Training  UEFI Shell Application
 
-  Copyright (c) 2018, Intel Corporation. All rights reserved.<BR>
+  Copyright (c) 2019, Intel Corporation. All rights reserved.<BR>
 
   Redistribution and use in source (original document form) and 'compiled'
   forms (converted to PDF, epub, HTML and other formats) with or without
@@ -157,7 +157,7 @@ USE THESE AS BULLETS
 
 
 
----?image=/assets/images/slides/Slide11_1.JPG
+---?image=/assets/images/slides/Slide9_1.JPG
 @title[What is a UEFI Shell?]
 ### <p align="right"><span class="gold" >UEFI Shell Specification V. 2.2</span></p>
 <p align="right"><span style="font-size:0.6em" > <a href="http://www.uefi.org/specsandtesttools"> http://www.uefi.org/specsandtesttools</a></span></p>
@@ -963,6 +963,23 @@ The EFI shell is replacing what is to the left of the “:” with the device pa
 @title[Questions]
 <br>
 ![Questions](/assets/images/questions.JPG =10x) 
+---
+@title[return to main]
+<p align="center"><span class="gold"   >@size[1.2em](<b>Return to Main Training Page</b>)</span></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p align="center"><span style="font-size:0.9em">Return to Training Table of contents for next presentation <a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki#schedule--outline">link</a></span></p>
+
+@snap[north span-30 ]
+<br>
+<br>
+<br>
+<a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki#schedule--outline">
+![trainingLogo](/assets/images/returnTrainingLogo.png)</a>
+@snapend
 
 
 ---?image=assets/images/gitpitch-audience.jpg
@@ -1000,7 +1017,7 @@ WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWIS
 ARISING IN ANY WAY OUT OF THE USE OF THIS DOCUMENTATION, EVEN IF ADVISED OF THE POSSIBILITY 
 OF SUCH DAMAGE.
 
-Copyright (c) 2018, Intel Corporation. All rights reserved.
+Copyright (c) 2019, Intel Corporation. All rights reserved.
 **/
 
 ```
