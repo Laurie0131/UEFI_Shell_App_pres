@@ -180,19 +180,19 @@ Note:
 
 
 @snap[west span-45  fragment]
-@box[bg-blue text-white waved ](<span style="font-size:01.5em" ><font face="Arial">Small Size Profiles</font></span> )
+@box[bg-royal text-white waved ](<span style="font-size:01.5em" ><font face="Arial">Small Size Profiles</font></span> )
 @snapend
 
 @snap[east span-45  fragment]
-@box[bg-yellow text-blue waved ](<span style="font-size:01.5em" ><font face="Arial">Shell Commands</font> </span> )
+@box[bg-gold2 text-white waved ](<span style="font-size:01.5em" ><font face="Arial">Shell Commands</font> </span> )
 @snapend
 
 @snap[south-west span-45  fragment]
-@box[bg-purple text-white waved ](<span style="font-size:01.5em" ><font face="Arial">New Shell API<br>&nbsp;</font> </span><br> )
+@box[bg-purple-pp text-white waved ](<span style="font-size:01.5em" ><font face="Arial">New Shell API<br>&nbsp;</font> </span><br> )
 @snapend
 
 @snap[south-east span-45  fragment]
-@box[bg-green text-white waved  ](<span style="font-size:01.5em" ><font face="Arial">Enhanced Scripting</font> </span><br>)
+@box[bg-green-pp text-white waved  ](<span style="font-size:01.5em" ><font face="Arial">Enhanced Scripting</font> </span><br>)
 @snapend
 
 Note:
@@ -252,7 +252,7 @@ UEFI Advantages = UEFI Shell Advantages
 @title[Small Size Profiles]
 
 @snap[midpoint span-65  ]
-@box[bg-blue text-white waved ](<span style="font-size:02.5em" ><font face="Arial">Small Size Profiles</font></span> )
+@box[bg-royal text-white waved ](<span style="font-size:02.5em" ><font face="Arial">Small Size Profiles</font></span> )
 @snapend
 
 
@@ -316,7 +316,7 @@ Beyond level 3, additional command “profiles” are defined for debug, network
 </table>
 
 @snap[south-west  fragment ]
-@box[bg-purple text-white rounded ](<span style="font-size:01.0em" ><font face="Arial"><b>Choose the shell that best matches your product needs </b></font></span> )
+@box[bg-purple-pp text-white rounded ](<span style="font-size:01.0em" ><font face="Arial"><b>Choose the shell that best matches your product needs </b></font></span> )
 @snapend
 
 Note:
@@ -350,7 +350,7 @@ Grouped the rest into 3 groups
 
 
 @snap[midpoint span-65  ]
-@box[bg-yellow text-blue waved ](<span style="font-size:02.5em" ><font face="Arial">Shell Commands</font></span> )
+@box[bg-gold2 text-white waved ](<span style="font-size:02.5em" ><font face="Arial">Shell Commands</font></span> )
 @snapend
 
 Note:
@@ -375,7 +375,7 @@ Only the commands built with the currenet shell being executed will also be list
 @title[New Shell API]
 
 @snap[midpoint span-65  ]
-@box[bg-purple text-white waved ](<span style="font-size:02.5em" ><font face="Arial">New Shell API<br>&nbsp;</font></span> )
+@box[bg-purple-pp text-white waved ](<span style="font-size:02.5em" ><font face="Arial">New Shell API<br>&nbsp;</font></span> )
 @snapend
 
 Note:
@@ -413,7 +413,7 @@ Note:
 </table>
 
 @snap[south-west  fragment ]
-@box[bg-purple text-white rounded ](<span style="font-size:01.0em" ><font face="Arial"><b>`EFI_SHELL_PROTOCOL` is installed on each application image handle </b></font></span> )
+@box[bg-purple-pp text-white rounded ](<span style="font-size:01.0em" ><font face="Arial"><b>`EFI_SHELL_PROTOCOL` is installed on each application image handle </b></font></span> )
 @snapend
 
 
@@ -508,16 +508,16 @@ sorting of handles to determine parent controllers, child controllers, or which 
 
 @snap[north-west span-45  fragment]
 @css[text-yellow](<br> <br>&nbsp;)
-@box[bg-blue text-white rounded ](<span style="font-size:01.5em" ><font face="Arial">Support binary portability</font></span> )
+@box[bg-royal text-white rounded ](<span style="font-size:01.5em" ><font face="Arial">Support binary portability</font></span> )
 @snapend
 
 @snap[north-east span-45  fragment]
 @css[text-yellow](<br> <br>&nbsp;)
-@box[bg-green text-white rounded ](<span style="font-size:01.5em" ><font face="Arial">Shell protocols<br>&nbsp;</font> </span> )
+@box[bg-green-pp text-white rounded ](<span style="font-size:01.5em" ><font face="Arial">Shell protocols<br>&nbsp;</font> </span> )
 @snapend
 
 @snap[south span-55  fragment]
-@box[bg-purple text-white rounded ](<span style="font-size:01.5em" ><font face="Arial">Shell parameters&nbsp;</font> </span><span style="font-size:0.65em" ><br>&num;`include` &lt;`Library/ShellLib.h`&gt;<br>`gEfiShellParametersProtocol`<br>`gEfiShellProtocol` </span> )
+@box[bg-purple-pp text-white rounded ](<span style="font-size:01.5em" ><font face="Arial">Shell parameters&nbsp;</font> </span><span style="font-size:0.65em" ><br>&num;`include` &lt;`Library/ShellLib.h`&gt;<br>`gEfiShellParametersProtocol`<br>`gEfiShellProtocol` </span> )
 
 @snapend
 
@@ -574,7 +574,7 @@ Note:
 
 
 @snap[midpoint span-65  ]
-@box[bg-green text-white waved ](<span style="font-size:02.5em" ><font face="Arial">Enhanced Scripting</font></span> )
+@box[bg-green-pp text-white waved ](<span style="font-size:02.5em" ><font face="Arial">Enhanced Scripting</font></span> )
 @snapend
 
 
